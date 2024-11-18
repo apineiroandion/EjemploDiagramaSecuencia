@@ -1,0 +1,1 @@
+Coidificacion diagrama de secuencia
